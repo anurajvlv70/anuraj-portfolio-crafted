@@ -111,6 +111,9 @@ border-radius: 25px 0px 25px 0px;
   .w-35 {
     width: 50%;
   }
+  .flex-column-media{
+    flex-direction: column;
+  }
 }
 @media (min-width: 768px) and (max-width: 1024px) {
   .w-35 {

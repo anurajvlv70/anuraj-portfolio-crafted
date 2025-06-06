@@ -121,6 +121,12 @@ const Index = () => {
                   {section}
                 </button>
               ))}
+              {/* <button
+            onClick={toggleTheme}
+            className="p-2 rounded-lg bg-gray-200 dark:bg-gray-700 text-gray-800 dark:text-gray-200 hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors duration-300"
+          >
+            {theme === 'light' ? '🌙' : '☀️'}
+          </button> */}
             </div>
           </div>
         </div>
@@ -168,6 +174,13 @@ const Index = () => {
               >
                 View Projects
               </Button>
+               <a href="/ANURAJ M M php.pdf" download>
+              <Button 
+                className="bg-indigo-600 hover:bg-indigo-700 px-8 py-3 text-lg font-medium shadow-lg hover:shadow-xl transition-all duration-300"
+                >
+                  Download Resume
+                </Button>
+              </a>
             </div>
           </div>
         </div>
@@ -298,7 +311,7 @@ const Index = () => {
           
           <Card className="p-8 shadow-xl border-0 bg-white/80 backdrop-blur-sm">
             <CardContent>
-              <div className="flex items-start gap-6">
+              <div className="flex items-start gap-6 flex-column-media">
                 <div className="flex-shrink-0">
                   <div className="w-16 h-16 bg-gradient-to-br from-indigo-500 to-purple-500 rounded-full flex items-center justify-center">
                     <Code className="w-8 h-8 text-white" />
