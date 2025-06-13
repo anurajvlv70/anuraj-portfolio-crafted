@@ -330,7 +330,7 @@ const Index = () => {
                   <p className="text-indigo-600 font-semibold mb-2"><a href="https://kiwisoft.in">Kiwisoft Solutions LLP</a></p>
                   <div className="flex items-center text-slate-500 mb-4">
                     <Calendar className="w-4 h-4 mr-2" />
-                    <span>November 2023 – June 2025</span>
+                    <span>August 2023 – June 2025</span>
                   </div>
                   <p className="text-slate-700 leading-relaxed">
                     <br /><b>Contributing to full-stack development of a live web-based flight and hotel booking platform. </b>
