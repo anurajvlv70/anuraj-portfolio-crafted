@@ -10,6 +10,7 @@ import flyImage from '@/assets/fly.png';
 import oyster from '@/assets/oii.png';
 import blood from '@/assets/blood.png';
 import gispace from '@/assets/gispace.png';
+import web from '@/assets/weblysi.png';
 import { Upload, Phone, Mail, Linkedin, Github, MapPin, Calendar, Code, Database, Server, Users, ExternalLink } from "lucide-react";
 import { url } from "inspector";
 
@@ -101,7 +102,14 @@ const Index = () => {
       description: "Medical lab system to manage patient/test records with unique ID tracking.",
       tech: ["Laravel", "PHP", "MySQL", "Bootstrap"],
       url: "#",
-    }
+    },
+    {
+         title: "WebLysi-Tech Startup",
+      description: "My tech startup providing web development and digital solutions. A comprehensive platform offering various web services and solutions for businesses.                              ",
+      tech: ["php","HTML5", "CSS3", "React", "JavaScript","Laravel","AWS"],
+      image: web,
+      url: "https://weblysi.in/",
+    },
   ];
 
   return (
@@ -177,10 +185,10 @@ const Index = () => {
                <a href="/ANURAJ M M php.pdf" download>
               <Button 
                 className="bg-indigo-600 hover:bg-indigo-700 px-8 py-3 text-lg font-medium shadow-lg hover:shadow-xl transition-all duration-300"
-                >
-                  Download Resume
-                </Button>
-              </a>
+              >
+                Download Resume
+              </Button>
+            </a>
             </div>
           </div>
         </div>
