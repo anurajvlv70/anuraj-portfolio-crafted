@@ -55,7 +55,7 @@ const Index = () => {
   const projects = [
         {
       title: "Fly Alrajhi",
-      description: "Building a live flight and hotel booking platform with real-time API integration and database design in an Agile environment.",
+      description: "Building a live flight and hotel booking platform with real-time API Integration and database design in an Agile environment.",
       tech: ["Laravel", "API integration", "MySQL"],
        image: flyImage,
        url: "https://flyalrajhi.com",
