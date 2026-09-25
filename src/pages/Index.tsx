@@ -165,7 +165,7 @@ const Index = () => {
              Insurance Executive | PHP Laravel Developer | Problem Solver
             </p>
             <p className="text-lg text-slate-600 max-w-3xl mx-auto mb-12 leading-relaxed">
-              Insurance professional specializing in General Insurance, Underwriting, and Insurance Advisory. MCA graduate with a background in PHP/Laravel development and web applications. Passionate about combining insurance expertise with technology to deliver efficient solutions and excellent client service.
+              Insurance professional specializing in General Insurance UAE, Underwriting, and Insurance Advisory. MCA graduate with a background in PHP Laravel development and web applications. Passionate about combining insurance expertise with technology to deliver efficient solutions and excellent client service.
 
             </p>
             <div className="flex flex-wrap justify-center gap-4">
