@@ -204,10 +204,8 @@ const Index = () => {
           <Card className="p-8 shadow-xl border-0 bg-white/80 backdrop-blur-sm">
             <CardContent className="text-center">
               <p className="text-lg text-slate-700 leading-relaxed max-w-4xl mx-auto">
-                MCA graduate with hands-on experience in PHP Laravel development, specializing in web application design, 
-                database management, and API integration. Currently working at Kiwisoft Solutions on a live web-based 
-                flight and hotel booking platform using real-time APIs (Amadeus, Flydubai, Flynas). Passionate about 
-                creating efficient, scalable solutions and continuously learning new technologies to deliver exceptional user experiences.
+               MCA graduate currently working as an Insurance Underwriting & General Insurance Specialist. Experienced in policy underwriting, client coordination, quotations, and insurance solutions. Combining technical knowledge with insurance expertise to provide efficient and customer-focused solutions.
+
               </p>
             </CardContent>
           </Card>
