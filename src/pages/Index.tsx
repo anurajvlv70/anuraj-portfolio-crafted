@@ -166,7 +166,6 @@ const Index = () => {
             </p>
             <p className="text-lg text-slate-600 max-w-3xl mx-auto mb-12 leading-relaxed">
               Insurance professional specializing in General Insurance UAE, Underwriting, and Insurance Advisory. MCA graduate with a background in PHP Laravel development and web applications. Passionate about combining insurance expertise with technology to deliver efficient solutions and excellent client service.
-
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <Button 
@@ -205,7 +204,6 @@ const Index = () => {
             <CardContent className="text-center">
               <p className="text-lg text-slate-700 leading-relaxed max-w-4xl mx-auto">
                MCA graduate currently working as an Insurance Underwriting & General Insurance Specialist. Experienced in policy underwriting, client coordination, quotations, and insurance solutions. Combining technical knowledge with insurance expertise to provide efficient and customer-focused solutions.
-
               </p>
             </CardContent>
           </Card>
