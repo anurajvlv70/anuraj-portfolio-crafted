@@ -110,6 +110,13 @@ const Index = () => {
       image: web,
       url: "https://weblysi.in/",
     },
+        {
+         title: "LysiInsure.ae",
+      description: "Developed a web-based application to record and manage monthly insurance enquiries, track potential customers, maintain future business opportunities, and organize customer information and renewal documents.                              ",
+      tech: ["Lovable AI", "React", "TypeScript", "Tailwind CSS", "Supabase"],
+      image: web,
+      url: "https://lysiinsur.lovable.app/",
+    },
   ];
 
   return (
