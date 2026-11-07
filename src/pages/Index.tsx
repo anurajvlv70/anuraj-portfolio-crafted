@@ -162,7 +162,7 @@ const Index = () => {
               Anuraj M M
             </h1>
             <p className="text-2xl md:text-3xl text-indigo-600 font-semibold mb-8">
-             Insurance Executive | PHP Laravel Developer | Problem Solver
+             Insurance Executive | General Insurance Specialist | Technology Enthusiast
             </p>
             <p className="text-lg text-slate-600 max-w-3xl mx-auto mb-12 leading-relaxed">
               Insurance professional specializing in General Insurance UAE, Underwriting, and Insurance Advisory. MCA graduate with a background in PHP Laravel development and web applications. Passionate about combining insurance expertise with technology to deliver efficient solutions and excellent client service.
